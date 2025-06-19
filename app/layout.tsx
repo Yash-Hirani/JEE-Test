@@ -14,9 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SStudize",
-  description:
-    "Task by Yash Hirani to intern at SStudize as a full-stack developer intern.",
+  title: "JEE-Test",
+  description: "A platform for jee students to give practice test",
 };
 
 export default function RootLayout({
